@@ -3,5 +3,7 @@
   - Bioinformatics
   - Evolutionnary biology
   - Learning as much things as possible
-- I’m currently studying in the "Frontiers of Life" Science Bachelor at [CRI](https://cri-paris.org/en), Paris
+- I’m an undergrad :
+  - in 3rd year of the "Frontiers of Life" Science Bachelor at [CRI](https://cri-paris.org/en), Paris
+  - in 2nd year of the Maths/CS double cursus at [Paris Cité University](https://math-info.u-paris.fr/) (at the "Saint Germain" campus, aka "Paris Descartes")
 - If i got the time some of my projects will be uploaded on my github page [drblobfish.github.io](https://drblobfish.github.io/)
