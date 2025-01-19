@@ -9,6 +9,8 @@
   - Artificial evolution
   - Robotics
   - Open Source Health Devices
-- I graduated in the "Frontiers of Life" Science Bachelor at [CRI](https://cri-paris.org/en), Paris
-- I’m an undergrad in 3rd year of the Maths/CS double cursus at [Paris Cité University](https://math-info.u-paris.fr/) (at the "Saint Germain" campus, aka "Paris Descartes")
+- I graduated in :
+  - "Frontiers of Life" Science Bachelor at [CRI](https://cri-paris.org/en), Paris
+  - Maths/CS double cursus at [Paris Cité University](https://math-info.u-paris.fr/) (at the "Saint Germain" campus, aka "Paris Descartes")
+- I am a postgrad in [Fondamental and Applied Mathematics](https://master.math.u-paris.fr/), still at Paris Cité University
 - If I got enough time some of my projects will be uploaded on my github page [drblobfish.github.io](https://drblobfish.github.io/)
